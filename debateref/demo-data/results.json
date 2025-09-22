@@ -1,0 +1,32 @@
+{
+  "sessionId": "debate_1758471434667_rpit97tq6",
+  "topic": "Should AI replace human teachers?",
+  "results": {
+    "user1": {
+      "userName": "Alice Johnson",
+      "scores": {
+        "clarity": 8,
+        "logic": 7,
+        "evidence": 6,
+        "relevance": 9
+      },
+      "finalScore": 7.4,
+      "reasoning": "Clear argument with good structure and relevant points about AI benefits"
+    },
+    "user2": {
+      "userName": "Bob Smith",
+      "scores": {
+        "clarity": 7,
+        "logic": 8,
+        "evidence": 7,
+        "relevance": 8
+      },
+      "finalScore": 7.5,
+      "reasoning": "Well-reasoned counter-argument highlighting human elements in education"
+    }
+  },
+  "winner": null,
+  "isTie": true,
+  "consensusStatement": "Both arguments present valid points about AI in education. The debate centers on balancing technological efficiency with human emotional intelligence in learning environments.",
+  "processedAt": 1758471434683
+}

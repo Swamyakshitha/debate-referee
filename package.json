@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@elizaos/plugin-openai": "^1.5.14"
+  }
+}

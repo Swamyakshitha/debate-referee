@@ -1,0 +1,29 @@
+[
+  {
+    "id": "debate_1758476790734_wkf0ddikb",
+    "topic": "why men are better than women",
+    "arguments": [],
+    "createdAt": 1758476790734
+  },
+  {
+    "id": "debate_1758476897958_vgb11hh96",
+    "topic": "why 8 is greater than 9",
+    "arguments": [
+      {
+        "id": "debate_1758476993157_w4nbxhjxu",
+        "userId": "maddy",
+        "userName": "madhav",
+        "topic": "why 8 is greater than 9",
+        "text": "7 comes before 8",
+        "timestamp": 1758476993157
+      }
+    ],
+    "createdAt": 1758476897958
+  },
+  {
+    "id": "debate_1758478198081_pveijb1mg",
+    "topic": "men",
+    "arguments": [],
+    "createdAt": 1758478198081
+  }
+]

@@ -1,0 +1,26 @@
+
+/node_modules
+
+
+.env
+.env.local
+.env.*.local
+
+
+/dist
+/build
+.next
+
+# Logs
+# Log files are specific to your local machine and shouldn't be shared.
+*.log
+npm-debug.log*
+yarn-error.log*
+
+# OS-specific files
+# Junk files created by macOS, Windows, and Linux systems.
+.DS_Store
+Thumbs.db
+desktop.ini
+
+

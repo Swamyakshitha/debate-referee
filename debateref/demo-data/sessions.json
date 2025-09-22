@@ -1,0 +1,73 @@
+[
+  {
+    "id": "debate_1758467069948_g772ndfhq",
+    "topic": "Should AI replace human teachers?",
+    "arguments": [
+      {
+        "id": "debate_1758467069959_26ecxw5hi",
+        "userId": "user1",
+        "userName": "Alice Johnson",
+        "topic": "Should AI replace human teachers?",
+        "text": "AI can provide personalized learning experiences that adapt to each student's pace and learning style. With machine learning algorithms, AI can identify knowledge gaps and provide targeted interventions. Studies show that AI tutoring systems can improve learning outcomes by 30-40% compared to traditional methods. Additionally, AI can provide 24/7 availability and consistent quality of instruction.",
+        "timestamp": 1758467069959
+      },
+      {
+        "id": "debate_1758467069961_svpqx3wl0",
+        "userId": "user2",
+        "userName": "Bob Smith",
+        "topic": "Should AI replace human teachers?",
+        "text": "While AI has technological advantages, it lacks the human touch that is crucial for education. Teachers provide emotional support, motivation, and social learning opportunities that AI cannot replicate. Human teachers can read non-verbal cues, provide encouragement during difficult times, and foster critical thinking through dialogue. The relationship between teacher and student is fundamental to the learning process and cannot be replaced by algorithms.",
+        "timestamp": 1758467069961
+      }
+    ],
+    "createdAt": 1758467069948
+  },
+  {
+    "id": "debate_1758467119514_auoh8e6j5",
+    "topic": "Should AI replace human teachers?",
+    "arguments": [
+      {
+        "id": "debate_1758467119517_9e3fefdr8",
+        "userId": "user1",
+        "userName": "Alice Johnson",
+        "topic": "Should AI replace human teachers?",
+        "text": "AI can provide personalized learning experiences that adapt to each student's pace and learning style. With machine learning algorithms, AI can identify knowledge gaps and provide targeted interventions. Studies show that AI tutoring systems can improve learning outcomes by 30-40% compared to traditional methods. Additionally, AI can provide 24/7 availability and consistent quality of instruction.",
+        "timestamp": 1758467119517
+      },
+      {
+        "id": "debate_1758467119519_wg0sww4z3",
+        "userId": "user2",
+        "userName": "Bob Smith",
+        "topic": "Should AI replace human teachers?",
+        "text": "While AI has technological advantages, it lacks the human touch that is crucial for education. Teachers provide emotional support, motivation, and social learning opportunities that AI cannot replicate. Human teachers can read non-verbal cues, provide encouragement during difficult times, and foster critical thinking through dialogue. The relationship between teacher and student is fundamental to the learning process and cannot be replaced by algorithms.",
+        "timestamp": 1758467119519
+      }
+    ],
+    "createdAt": 1758467119514,
+    "processedAt": 1758467119534
+  },
+  {
+    "id": "debate_1758471434667_rpit97tq6",
+    "topic": "Should AI replace human teachers?",
+    "arguments": [
+      {
+        "id": "debate_1758471434676_vbht5iqv5",
+        "userId": "user1",
+        "userName": "Alice Johnson",
+        "topic": "Should AI replace human teachers?",
+        "text": "AI can provide personalized learning experiences that adapt to each student's pace and learning style. With machine learning algorithms, AI can identify knowledge gaps and provide targeted interventions. Studies show that AI tutoring systems can improve learning outcomes by 30-40% compared to traditional methods. Additionally, AI can provide 24/7 availability and consistent quality of instruction.",
+        "timestamp": 1758471434676
+      },
+      {
+        "id": "debate_1758471434677_dsao58quh",
+        "userId": "user2",
+        "userName": "Bob Smith",
+        "topic": "Should AI replace human teachers?",
+        "text": "While AI has technological advantages, it lacks the human touch that is crucial for education. Teachers provide emotional support, motivation, and social learning opportunities that AI cannot replicate. Human teachers can read non-verbal cues, provide encouragement during difficult times, and foster critical thinking through dialogue. The relationship between teacher and student is fundamental to the learning process and cannot be replaced by algorithms.",
+        "timestamp": 1758471434677
+      }
+    ],
+    "createdAt": 1758471434667,
+    "processedAt": 1758471434690
+  }
+]
